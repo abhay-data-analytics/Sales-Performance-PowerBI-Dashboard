@@ -1,88 +1,86 @@
-# Sales-Performance-PowerBI-Dashboard
-Interactive Sales Performance Dashboard built in Power BI using the Superstore Sales dataset. Features DAX measures, Power Query transformations, KPI reporting, and interactive visualizations for sales, profit, customer, and regional analysis.
+# Sales-Performance-Power BI-Dashboard
+Interactive Sales Performance Dashboard built in Power BI using the Superstore dataset. Features DAX measures, Power Query transformations, KPI reporting, geographic analysis, sales trends, and interactive filters for business decision-making.
 
 # 📊 Sales Performance Dashboard | Power BI
 
 ## 📌 Project Overview
 
-This project showcases an interactive **Sales Performance Dashboard** developed using **Power BI** to analyze sales performance, profitability, customer behavior, product performance, and regional trends.
-
-The dashboard provides business users with key performance indicators (KPIs) and interactive visualizations to support strategic decision-making.
+This project demonstrates an interactive **Sales Performance Dashboard** built in **Power BI** using the Global Superstore dataset. The dashboard provides comprehensive insights into sales performance, profitability, customer behavior, regional trends, and product performance through interactive visualizations and business KPIs.
 
 ---
 
 ## 🖼 Dashboard Preview
 
-![Sales Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ## 🎯 Business Objectives
 
-- Monitor overall business performance.
-- Track sales, profit, and transaction volume.
-- Analyze product category and sub-category performance.
-- Compare regional sales distribution.
-- Understand customer purchasing behavior.
-- Monitor monthly sales trends.
-- Evaluate shipping methods.
+This dashboard helps answer key business questions:
+
+- What is the total sales and profit?
+- Which product categories generate the highest revenue?
+- Which sub-categories contribute the most sales?
+- Which regions perform the best?
+- How do sales change over time?
+- Which shipping mode is used most frequently?
+- How many total orders and customers are there?
 
 ---
 
-## 📊 Key KPIs
+## 📊 Key Performance Indicators (KPIs)
 
-| KPI | Value |
-|------|------|
-| Total Sales | 2.29M |
-| Total Profit | 286K |
-| Happy Customers | 793 |
-| Total Quantity Sold | 37.8K |
-| Profit Percentage | 7.56% |
-| Total Transactions | 9,994 |
+| KPI | Description |
+|------|-------------|
+| 💰 Total Sales | Overall business revenue |
+| 📈 Total Profit | Total profit earned |
+| 😊 Happy Customers | Total unique customers |
+| 📦 Total Quantity | Products sold |
+| 📊 Profit % | Overall profit margin |
+| 🧾 Total Transactions | Number of sales transactions |
+| 📋 Total Orders | Total unique orders |
 
 ---
 
 ## 📈 Dashboard Features
 
-✔ Executive KPI Cards
+- Executive KPI Cards
+- Sales by Product Category
+- Sales by Product Sub-Category
+- Monthly Sales Trend Analysis
+- Regional Sales Distribution
+- Geographic Sales Map
+- Sales by Customer Segment
+- Transactions by Year
+- Interactive Filters
 
-✔ Sales by Category
+### Interactive Slicers
 
-✔ Sales by Sub-Category
-
-✔ Monthly Sales Trend
-
-✔ Geographic Sales Map
-
-✔ Sales by Segment
-
-✔ Sales by Region
-
-✔ Transactions by Year
-
-✔ Interactive Filters
-
-- Ship Mode
 - State
+- Ship Mode
+- Year
+- Month
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 
 - Power BI Desktop
 - Power Query
-- DAX
+- DAX (Data Analysis Expressions)
 - Microsoft Excel
 
 ---
 
-## 📈 Key Insights
+## 💡 Key Business Insights
 
-- Technology is the highest revenue-generating category.
-- Phones and Chairs are the top-performing products.
-- Consumer segment contributes the largest share of sales.
-- Sales show consistent year-over-year growth.
-- West region records the highest sales performance.
+- Technology is the highest revenue-generating product category.
+- Phones and Chairs are the best-selling sub-categories.
+- Consumer segment contributes the largest portion of sales.
+- Sales show a positive growth trend over multiple years.
+- The West region records the highest sales.
+- Standard Class shipping is the most commonly used shipping method.
 
 ---
 
@@ -93,19 +91,21 @@ The dashboard provides business users with key performance indicators (KPIs) and
 - Data Modeling
 - DAX Measures
 - Power Query
-- Dashboard Development
-- KPI Reporting
+- KPI Development
 - Sales Analytics
+- Dashboard Design
 - Business Intelligence
 - Data Visualization
+- Trend Analysis
+- Interactive Reporting
 
 ---
 
-## 📂 Files Included
+## 📂 Repository Contents
 
-- Sales_Performance_Report.pbix
-- Dashboard.png
-- README.md
+- 📊 Sales_Performance_Report.pbix
+- 🖼 Dashboard.png
+- 📄 README.md
 
 ---
 
@@ -115,4 +115,4 @@ The dashboard provides business users with key performance indicators (KPIs) and
 
 Aspiring Data Analyst
 
-Power BI | SQL | Excel | Python
+**Skills:** Power BI | SQL | Excel | Python
