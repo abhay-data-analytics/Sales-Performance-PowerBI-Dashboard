@@ -11,7 +11,7 @@ This project demonstrates an interactive **Sales Performance Dashboard** built i
 
 ## 🖼 Dashboard Preview
 
-![Dashboard][(Dashboard.png)](https://github.com/abhay-data-analytics/Sales-Performance-PowerBI-Dashboard/blob/main/Dashboard.png)
+![Dashboard](https://github.com/abhay-data-analytics/Sales-Performance-PowerBI-Dashboard/blob/main/Dashboard.png)
 
 ---
 
